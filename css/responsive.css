@@ -8,6 +8,10 @@
     .menu {
         margin-left: 8%;
     }
+    .card-6 {
+        width: auto;
+        height: 100%;
+    }
 }
 
 @media only screen and (max-width: 990px) {
